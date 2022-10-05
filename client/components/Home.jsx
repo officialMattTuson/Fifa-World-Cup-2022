@@ -17,7 +17,7 @@ export default function Home() {
       <button onClick={() => setOutcome('Matt')}>Mad Matt</button>
       <h1>{outcome}</h1>
 
-      <Link to="/predictions/AA">
+      <Link to="/predictions/AB">
         <button type="submit">Lets Go!</button>
       </Link>
     </div>
