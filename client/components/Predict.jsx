@@ -15,7 +15,7 @@ export default function Predictor() {
   return (
     <>
       <div style={{display: 'flex', justifyContent: 'space-around'}}>
-              <Card sx={{ width: 450, margin: '30px' }}>
+              <Card sx={{ width: 650, margin: '30px' }}>
                 <CardActionArea>
                   <CardMedia
                     component="img"
@@ -29,8 +29,8 @@ export default function Predictor() {
                   </CardContent>
                 </CardActionArea>
               </Card>
-              <h1 style = {{position: 'absolute', top: '150px'}}>VS</h1>
-              <Card sx={{ width: 450, margin: '30px' }}>
+              <h1 style = {{position: 'absolute', bottom: '250px'}}>VS</h1>
+              <Card sx={{ width: 650, margin: '30px' }}>
                 <CardActionArea>
                   <CardMedia
                     component="img"

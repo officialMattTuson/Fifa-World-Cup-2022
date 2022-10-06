@@ -24,10 +24,20 @@ const useStyles = makeStyles((theme) => ({
     fontSize: '100px',
     textAlign: 'center'
   },
+  subHeaderStyle : {
+    fontFamily: 'Nunito Sans', 
+    fontWeight: 'bold',
+    margin: '60px', 
+    fontSize: '60px',
+    textAlign: 'center'
+  },
   section: {
     display: 'flex',
     justifyContent: 'space-around', 
     width: '100%'
+  },
+  buttons : {
+    textAlign: 'center'
   },
   cardStyles : { 
     width: 350,
@@ -40,22 +50,23 @@ export default function Home() {
     const classes = useStyles()
   return (
     <div>
-      <h1 className={classes.headerStyle}><span className = {classes.colorBase}>FIFA</span><span className={classes.colorTitle}>WORLD</span><span className = {classes.colorBase}>CUP</span><span className = {classes.colorTitle}>2022</span></h1>
-      <h2>Who is Picking??:</h2>
+      <h2 className={classes.subHeaderStyle}>Who is Picking??</h2>
 
-      <Button variant="contained" color = "success" style = {{margin:"10px"}} onClick={() => setOutcome('Marge')}>Magic Marge</Button>
-      <Button variant="contained" color = "success" style = {{margin:"10px"}} onClick={() => setOutcome('Dave')}>D-D-Dave</Button>
-      <Button variant="contained" color = "success" style = {{margin:"10px"}} onClick={() => setOutcome('Cole')}>Cool Cole</Button>
-      <Button variant="contained" color = "success" style = {{margin:"10px"}} onClick={() => setOutcome('Freya')}>Freddie Freya</Button>
-      <Button variant="contained" color = "success" style = {{margin:"10px"}} onClick={() => setOutcome('Matt')}>Mad Matt</Button>
-      <Button variant="contained" color = "error" style = {{margin:"10px"}} onClick={() => setOutcome('')}>Reset</Button>
-
-      <h1>{outcome}</h1>
+      <div className={classes.buttons}>
+        <Button variant="contained" color = "success" style = {{margin:"10px", padding: '20px'}} onClick={() => setOutcome('Marge')}>Magic Marge</Button>
+        <Button variant="contained" color = "success" style = {{margin:"10px", padding: '20px'}} onClick={() => setOutcome('Dave')}>D-D-Dave</Button>
+        <Button variant="contained" color = "success" style = {{margin:"10px", padding: '20px'}} onClick={() => setOutcome('Cole')}>Cool Cole</Button>
+        <Button variant="contained" color = "success" style = {{margin:"10px", padding: '20px'}} onClick={() => setOutcome('Freya')}>Freddie Freya</Button>
+        <Button variant="contained" color = "success" style = {{margin:"10px", padding: '20px'}} onClick={() => setOutcome('Matt')}>Mad Matt</Button>
+        <Button variant="contained" color = "error" style = {{margin:"10px", padding: '20px'}} onClick={() => setOutcome('')}>Reset</Button>
+        <br></br>
+        <h1>{outcome}</h1>
 
         {outcome &&
       <Link to="/predictions/AB">
-       <Button variant="contained" color = "success">Let's Go</Button>
+       <Button variant="contained" style = {{margin:"10px", padding: '20px'}} color = "success">Let's Go</Button>
       </Link>}
+        </div>
     </div>
   )
 }
