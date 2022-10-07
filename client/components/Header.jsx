@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
     headerStyle : {
       fontFamily: 'Nunito Sans', 
       fontWeight: 'bold',
-      margin: '100px', 
+      margin: '50px', 
       fontSize: '100px',
       textAlign: 'center'
     }

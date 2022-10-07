@@ -13,6 +13,7 @@ export default [
       gameId: 1,
       team1: 'Qatar',
       team2: 'Ecuador',
+      team3: 'Draw',
       image1: '/images/Qatar.webp',
       image2: '/images/Ecuador.webp',
       links: [
@@ -24,6 +25,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -35,6 +37,7 @@ export default [
         gameId: 3,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -46,6 +49,7 @@ export default [
         gameId: 4,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -57,6 +61,7 @@ export default [
         gameId: 5,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -68,6 +73,7 @@ export default [
         gameId: 6,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -79,6 +85,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -90,6 +97,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -101,6 +109,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -112,6 +121,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -123,6 +133,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -134,6 +145,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -145,6 +157,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -156,6 +169,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -167,6 +181,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -178,6 +193,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -189,6 +205,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -200,6 +217,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -211,6 +229,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -222,6 +241,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -233,6 +253,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -244,6 +265,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -255,6 +277,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
@@ -266,6 +289,7 @@ export default [
         gameId: 2,
         team1: 'Senegal',
         team2: 'Netherlands',
+        team3: 'Draw',
         image1: 'https://thumbs.dreamstime.com/b/senegal-flag-senegal-flag-waving-satin-texture-137603026.jpg',
         image2: 'https://www.netherlands-tourism.com/wp-content/uploads/2013/07/Flag-of-The-Netherlands3.png',
         links: [
